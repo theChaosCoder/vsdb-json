@@ -1,0 +1,70 @@
+{
+    "namespace": "vcmove",
+    "shortalias": "",
+    "identifier": "in.vcmohan.move",
+    "name": "vcmove",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=171414",
+    "url_avswiki": "",
+    "url_website": "http://www.avisynth.nl/users/vcmohan",
+    "vsrepo": 1,
+    "description": "VapourSynth pixel repositioning Plugin",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:54",
+    "updated_at": "2018-09-25 13:07:54",
+    "deleted_at": null,
+    "category": "Effects and Transitions",
+    "functions": [
+        {
+            "name": "DeBarrel",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Quad2Rect",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Rect2Quad",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Rotate",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

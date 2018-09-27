@@ -1,0 +1,58 @@
+{
+    "namespace": "tonemap",
+    "shortalias": "",
+    "identifier": "com.ifb.tonemap",
+    "name": "Tonemap",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/ifb/vapoursynth-tonemap",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/ifb/vapoursynth-tonemap",
+    "vsrepo": 1,
+    "description": "A filter for converting high dynamic range (HDR) video to standard dynamic range (SDR).",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:41",
+    "updated_at": "2018-09-25 13:07:41",
+    "deleted_at": null,
+    "category": "Color/Levels manipulation",
+    "functions": [
+        {
+            "name": "Hable",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Color/Levels manipulation"
+        },
+        {
+            "name": "Mobius",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Color/Levels manipulation"
+        },
+        {
+            "name": "Reinhard",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Color/Levels manipulation"
+        }
+    ]
+}

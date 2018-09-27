@@ -1,0 +1,34 @@
+{
+    "namespace": "dgm",
+    "shortalias": "",
+    "identifier": "com.nodame.degrainmedian",
+    "name": "DegrainMedian",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-degrainmedian",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-degrainmedian",
+    "vsrepo": 1,
+    "description": "Spatio-temporal limited median denoiser",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:42",
+    "updated_at": "2018-09-25 13:07:42",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "DegrainMedian",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}

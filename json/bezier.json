@@ -1,0 +1,46 @@
+{
+    "namespace": "bezier",
+    "shortalias": "",
+    "identifier": "com.kewenyu.bezier",
+    "name": "BezierCurve",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/kewenyu/VapourSynth-BezierCurve",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/kewenyu/VapourSynth-BezierCurve",
+    "vsrepo": 1,
+    "description": "Vapoursynth-BezierCurve is a plugin which allow you to adjust a clip by specifying a quadratic or a cubic bezier curve.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:41",
+    "updated_at": "2018-09-25 13:07:41",
+    "deleted_at": null,
+    "category": "Other",
+    "functions": [
+        {
+            "name": "Cubic",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "Quadratic",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Other"
+        }
+    ]
+}

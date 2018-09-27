@@ -1,0 +1,58 @@
+{
+    "namespace": "misc",
+    "shortalias": "",
+    "identifier": "com.vapoursynth.misc",
+    "name": "Miscellaneous Filters",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 1,
+    "url_github": "https://github.com/vapoursynth/vapoursynth",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "http://www.vapoursynth.com/doc/plugins/misc.html",
+    "vsrepo": 0,
+    "description": "Miscellaneous filters",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:48",
+    "updated_at": "2018-09-25 13:07:48",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": [
+        {
+            "name": "AverageFrames",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:48",
+            "updated_at": "2018-09-25 13:07:48",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Hysteresis",
+            "description": "Grows the mask in clipa into the mask in clipb. This is an equivalent of the Avisynth function mt_hysteresis.",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:48",
+            "updated_at": "2018-09-25 13:07:48",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        },
+        {
+            "name": "SCDetect",
+            "description": "A simple filter to mark scene changes.",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:48",
+            "updated_at": "2018-09-25 13:07:48",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

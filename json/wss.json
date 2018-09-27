@@ -1,0 +1,46 @@
+{
+    "namespace": "wss",
+    "shortalias": "",
+    "identifier": "wss",
+    "name": "WarpSharpSupport",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/myrsloik/WarpSharpSupport",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 1,
+    "description": "Script versions of support functions from WarpSharp",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:36",
+    "updated_at": "2018-09-25 13:07:36",
+    "deleted_at": null,
+    "category": "Sharpening",
+    "functions": [
+        {
+            "name": "Xsharpen",
+            "description": "XSharpen() support function from warpsharp",
+            "bitdepth": "unknown",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:36",
+            "updated_at": "2018-09-25 13:07:36",
+            "deleted_at": null,
+            "category": "Sharpening"
+        },
+        {
+            "name": "UnsharpMask",
+            "description": "UnsharpMask() support function from warpsharp",
+            "bitdepth": "unknown",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:36",
+            "updated_at": "2018-09-25 13:07:36",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

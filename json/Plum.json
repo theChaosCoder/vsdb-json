@@ -1,0 +1,58 @@
+{
+    "namespace": "Plum",
+    "shortalias": "",
+    "identifier": "Plum",
+    "name": "Plum",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/IFeelBloated/Plum",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=173775",
+    "url_avswiki": "",
+    "url_website": "https://github.com/IFeelBloated/Plum",
+    "vsrepo": 1,
+    "description": "Plum is a sharpening/blind deconvolution suite with certain advanced features like Non-Local error, Block Matching, etc..",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:34",
+    "updated_at": "2018-09-25 13:07:34",
+    "deleted_at": null,
+    "category": "Sharpening",
+    "functions": [
+        {
+            "name": "Super",
+            "description": "Optional, it helps improve the precision of sub-pixel motion estimation and compensation, use it and get a quality boost or don't and get a performance boost",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Basic",
+            "description": "The basic estimation performs sharpening with spatial self similarity to cancel out ringing, the sharpening kernel is not unsharpen masking, it's a blind deconvolution filter (assuming PSF is a circle).",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Final",
+            "description": "The final estimation adjusts the basic estimation using temporal self similarity to cancel out noise and residual aliasing.",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

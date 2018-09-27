@@ -1,0 +1,34 @@
+{
+    "namespace": "pp7",
+    "shortalias": "",
+    "identifier": "com.holywu.pp7",
+    "name": "DeblockPP7",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeblockPP7",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeblockPP7",
+    "vsrepo": 0,
+    "description": "Port of pp7 from MPlayer. Similar to spp=6 with 7 point DCT where only the center sample is used after IDCT.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:39",
+    "updated_at": "2018-09-25 13:07:39",
+    "deleted_at": null,
+    "category": "Deblocking",
+    "functions": [
+        {
+            "name": "DeblockPP7",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

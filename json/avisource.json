@@ -1,0 +1,58 @@
+{
+    "namespace": "avisource",
+    "shortalias": "",
+    "identifier": "com.vapoursynth.avisource",
+    "name": "AVISource",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 1,
+    "url_github": "https://github.com/vapoursynth/vapoursynth",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "http://www.vapoursynth.com/doc/plugins/avisource.html",
+    "vsrepo": 0,
+    "description": "VapourSynth AVISource Port",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:46",
+    "updated_at": "2018-09-25 13:07:46",
+    "deleted_at": null,
+    "category": "Source/Output",
+    "functions": [
+        {
+            "name": "AVIFileSource",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "AVISource",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "OpenDMLSource",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:47",
+            "updated_at": "2018-09-25 13:07:47",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

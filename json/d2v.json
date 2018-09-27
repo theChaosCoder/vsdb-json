@@ -1,0 +1,46 @@
+{
+    "namespace": "d2v",
+    "shortalias": "",
+    "identifier": "com.sources.d2vsource",
+    "name": "D2V Source",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dwbuiten/d2vsource",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=166399",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dwbuiten/d2vsource",
+    "vsrepo": 1,
+    "description": "D2V Source",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:46",
+    "updated_at": "2018-09-25 13:07:46",
+    "deleted_at": null,
+    "category": "Source/Output",
+    "functions": [
+        {
+            "name": "ApplyRFF",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Source",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

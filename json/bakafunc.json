@@ -1,0 +1,70 @@
+{
+    "namespace": "bakafunc",
+    "shortalias": "",
+    "identifier": "bakafunc",
+    "name": "bakafunc",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/BakaProxy/Baka-Utilities",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=173257",
+    "url_avswiki": "",
+    "url_website": "https://github.com/BakaProxy/Baka-Utilities",
+    "vsrepo": 0,
+    "description": "",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:32",
+    "updated_at": "2018-09-25 13:07:32",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": [
+        {
+            "name": "Baa",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:32",
+            "updated_at": "2018-09-25 13:07:32",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
+        },
+        {
+            "name": "LazyChromaBleedFix",
+            "description": "It's a somewhat lazy but effective way to repair chroma bleed. The chroma is warped according to the luma edges hence the chroma 'sticks' to luma edges.",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:32",
+            "updated_at": "2018-09-25 13:07:32",
+            "deleted_at": null,
+            "category": "Color/Levels manipulation"
+        },
+        {
+            "name": "RestoreDepth",
+            "description": "A workaround for preserving high bitdepth when functions only work in 8 bit. This function is only really effective if the 8 bit functions doesn't alter banding or anything that really needs the high bitdepth",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "dec_txt60mc",
+            "description": "ivtc_txt60mc is for 60i+24t (telecined) and dec_txt60mc is for 60i+24d(30fps 24p with dupes)",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "Inverse Telecine"
+        }
+    ]
+}

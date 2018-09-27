@@ -1,0 +1,58 @@
+{
+    "namespace": "acrop",
+    "shortalias": "",
+    "identifier": "autocrop.infiistgott.info",
+    "name": "AutoCrop",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Irrational-Encoding-Wizardry/vapoursynth-autocrop",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=174542",
+    "url_avswiki": "",
+    "url_website": "https://github.com/Irrational-Encoding-Wizardry/vapoursynth-autocrop",
+    "vsrepo": 1,
+    "description": "VapourSynth Auto Crop",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:39",
+    "updated_at": "2018-09-25 13:07:39",
+    "deleted_at": null,
+    "category": "Borders and Cropping",
+    "functions": [
+        {
+            "name": "AutoCrop",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "CropProp",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "CropValues",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

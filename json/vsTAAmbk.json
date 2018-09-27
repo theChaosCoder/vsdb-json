@@ -1,0 +1,70 @@
+{
+    "namespace": "vsTAAmbk",
+    "shortalias": "taa",
+    "identifier": "vsTAAmbk",
+    "name": "vsTAAmbk",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk",
+    "vsrepo": 1,
+    "description": "An Anti-aliasing script ported from Avisynth. For more details NMM-HD: https://www.nmm-hd.org/newbbs/viewtopic.php?f=23&t=1666",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:24",
+    "updated_at": "2018-09-25 13:07:24",
+    "deleted_at": null,
+    "category": "Anti-aliasing",
+    "functions": [
+        {
+            "name": "daa",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GARY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:24",
+            "updated_at": "2018-09-25 13:07:24",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
+        },
+        {
+            "name": "temporal_stabilize",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:24",
+            "updated_at": "2018-09-25 13:07:24",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "soothe",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:25",
+            "updated_at": "2018-09-25 13:07:25",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "TAAmbk",
+            "description": "Mighty Anti-aliasing script",
+            "bitdepth": "8, 10, 16 int",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:25",
+            "updated_at": "2018-09-26 07:02:46",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
+        }
+    ]
+}

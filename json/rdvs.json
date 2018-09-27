@@ -1,0 +1,58 @@
+{
+    "namespace": "rdvs",
+    "shortalias": "",
+    "identifier": "com.fakeurl.removedirtvs",
+    "name": "RemoveDirt",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/handaimaoh/removedirtvs",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=169771",
+    "url_avswiki": "",
+    "url_website": "https://github.com/handaimaoh/removedirtvs",
+    "vsrepo": 0,
+    "description": "RemoveDirt VapourSynth Port",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:38",
+    "updated_at": "2018-09-25 13:07:38",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "DupBlocks",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:38",
+            "updated_at": "2018-09-25 13:07:38",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "RestoreMotionBlocks",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:38",
+            "updated_at": "2018-09-25 13:07:38",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "SCSelect",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:38",
+            "updated_at": "2018-09-25 13:07:38",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

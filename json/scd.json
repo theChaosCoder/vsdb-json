@@ -1,0 +1,46 @@
+{
+    "namespace": "scd",
+    "shortalias": "",
+    "identifier": "chikuzen.does.not.have.his.own.domain.scd",
+    "name": "scenechange detection",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://forum.doom9.org/showthread.php?t=166769",
+    "vsrepo": 0,
+    "description": "Scene change detect filter for VapourSynth v0.2.0",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:55",
+    "updated_at": "2018-09-25 13:07:55",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "ApplyLog",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Detect",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

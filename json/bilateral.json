@@ -1,0 +1,46 @@
+{
+    "namespace": "bilateral",
+    "shortalias": "",
+    "identifier": "mawen1250.Bilateral",
+    "name": "Bilateral",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral",
+    "vsrepo": 1,
+    "description": "Bilateral filter and Gaussian filter for VapourSynth.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:54",
+    "updated_at": "2018-09-25 13:07:54",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "Bilateral",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Gaussian",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:54",
+            "updated_at": "2018-09-25 13:07:54",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

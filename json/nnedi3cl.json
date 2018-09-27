@@ -1,0 +1,34 @@
+{
+    "namespace": "nnedi3cl",
+    "shortalias": "",
+    "identifier": "com.holywu.nnedi3cl",
+    "name": "NNEDI3CL",
+    "type": "VSPlugin",
+    "gpusupport": "OpenCL",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL",
+    "vsrepo": 1,
+    "description": "An intra-field only deinterlacer",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:40",
+    "updated_at": "2018-09-25 13:07:40",
+    "deleted_at": null,
+    "category": "Deinterlacing",
+    "functions": [
+        {
+            "name": "NNEDI3CL",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "OpenCL",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:40",
+            "updated_at": "2018-09-25 13:07:40",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

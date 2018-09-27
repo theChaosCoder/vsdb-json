@@ -1,0 +1,46 @@
+{
+    "namespace": "EDIResample",
+    "shortalias": "",
+    "identifier": "EDIResample",
+    "name": "EDIResample",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/IFeelBloated/VaporSynth-Functions",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/IFeelBloated/VaporSynth-Functions",
+    "vsrepo": 0,
+    "description": "VaporSynth-Functions",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:34",
+    "updated_at": "2018-09-25 13:07:34",
+    "deleted_at": null,
+    "category": "Resizing and Format Conversion",
+    "functions": [
+        {
+            "name": "EDIResample",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "EDInter",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

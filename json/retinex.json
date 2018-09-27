@@ -1,0 +1,46 @@
+{
+    "namespace": "retinex",
+    "shortalias": "",
+    "identifier": "AOJIAO_mawen1250->AOwen.Retina_Cortex->Retinex",
+    "name": "Retinex",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Retinex",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Retinex",
+    "vsrepo": 1,
+    "description": "The Retinex theory and algorithm mainly aims at simulating the color constancy feature of HVS(Human Visual System).",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:38",
+    "updated_at": "2018-09-25 13:07:38",
+    "deleted_at": null,
+    "category": "Other",
+    "functions": [
+        {
+            "name": "MSRCP",
+            "description": "MSRCP(Multi Scale Retinex with Chromaticity Preservation) is based on MSR. It applies MSR on intensity channel, and adjust UV/RGB according to the filtering result of intensity channel to preserve chromaticity.",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY444, YUV444, RGB, YCOCG444",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:38",
+            "updated_at": "2018-09-25 13:07:38",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "MSRCR",
+            "description": "MSRCR(Multi Scale Retinex with Color Restoration) is based on MSR. It applies MSR to each spectral channel (e.g. R, G and B), and modify the MSR output by multiplying it by a color restoration function of the chromaticity.",
+            "bitdepth": "8-16 int",
+            "colorspace": "RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:38",
+            "updated_at": "2018-09-25 13:07:38",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

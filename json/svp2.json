@@ -1,0 +1,34 @@
+{
+    "namespace": "svp2",
+    "shortalias": "",
+    "identifier": "com.svp-team.flow2",
+    "name": "SVPflow",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=164554",
+    "url_avswiki": "",
+    "url_website": "https://www.svp-team.com/wiki/Manual:SVPflow",
+    "vsrepo": 0,
+    "description": "SVPFlow2",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:46",
+    "updated_at": "2018-09-25 13:07:46",
+    "deleted_at": null,
+    "category": "Frame Rate Conversion",
+    "functions": [
+        {
+            "name": "SmoothFps",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "namespace": "mpls",
+    "shortalias": "",
+    "identifier": "com.holywu.readmpls",
+    "name": "ReadMpls",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-ReadMpls",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=174580",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-ReadMpls",
+    "vsrepo": 1,
+    "description": "Reads a mpls file and returns a dictionary",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:40",
+    "updated_at": "2018-09-25 13:07:40",
+    "deleted_at": null,
+    "category": "Source/Output",
+    "functions": [
+        {
+            "name": "Read",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:40",
+            "updated_at": "2018-09-25 13:07:40",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

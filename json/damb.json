@@ -1,0 +1,46 @@
+{
+    "namespace": "damb",
+    "shortalias": "",
+    "identifier": "com.nodame.damb",
+    "name": "damb",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-damb",
+    "url_doom9": " https://forum.doom9.org/showthread.php?t=171555",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-damb",
+    "vsrepo": 0,
+    "description": "Audio file reader and writer",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:42",
+    "updated_at": "2018-09-25 13:07:42",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "Read",
+            "description": "",
+            "bitdepth": "any",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Write",
+            "description": "",
+            "bitdepth": "any",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

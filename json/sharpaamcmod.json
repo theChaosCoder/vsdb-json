@@ -1,0 +1,58 @@
+{
+    "namespace": "sharpaamcmod",
+    "shortalias": "",
+    "identifier": "sharpaamcmod",
+    "name": "SharpAAMCmod",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://gist.github.com/4re/8fee7aa32ba9ac566ed0",
+    "vsrepo": 0,
+    "description": "Avisynth's SharpAAMCmod.avsi port to Vapoursynth",
+    "deprecated": "muvsfunc",
+    "created_at": "2018-09-25 13:07:26",
+    "updated_at": "2018-09-25 13:07:26",
+    "deleted_at": null,
+    "category": "Anti-aliasing",
+    "functions": [
+        {
+            "name": "sharpaamcmod",
+            "description": "Ported from: http://forum.doom9.org/showthread.php?p=1673928",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:26",
+            "updated_at": "2018-09-25 13:07:26",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
+        },
+        {
+            "name": "sangnomaa",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:26",
+            "updated_at": "2018-09-25 13:07:26",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "ediaa",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:26",
+            "updated_at": "2018-09-25 13:07:26",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

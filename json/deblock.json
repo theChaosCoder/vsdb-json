@@ -1,0 +1,34 @@
+{
+    "namespace": "deblock",
+    "shortalias": "",
+    "identifier": "com.holywu.deblock",
+    "name": "Deblock",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Deblock",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Deblock",
+    "vsrepo": 1,
+    "description": "It does a deblocking of the picture, using the deblocking filter of h264",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:39",
+    "updated_at": "2018-09-25 13:07:39",
+    "deleted_at": null,
+    "category": "Deblocking",
+    "functions": [
+        {
+            "name": "Deblock",
+            "description": "It does a deblocking of the picture, using the deblocking filter of h264",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

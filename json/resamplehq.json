@@ -1,0 +1,34 @@
+{
+    "namespace": "resamplehq",
+    "shortalias": "",
+    "identifier": "resamplehq",
+    "name": "resamplehq",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/4re/resamplehq",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/4re/resamplehq",
+    "vsrepo": 1,
+    "description": "Gamma correct resizing in linear light (RGB)",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:34",
+    "updated_at": "2018-09-25 13:07:34",
+    "deleted_at": null,
+    "category": "Resizing and Format Conversion",
+    "functions": [
+        {
+            "name": "resample_hq",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:34",
+            "updated_at": "2018-09-25 13:07:34",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

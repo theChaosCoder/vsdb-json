@@ -1,0 +1,46 @@
+{
+    "namespace": "comb",
+    "shortalias": "",
+    "identifier": "chikuzen.does.not.have.his.own.domain.combmask",
+    "name": "CombMask",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/chikuzen/CombMask/tree/master/vapoursynth",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/chikuzen/CombMask/tree/master/vapoursynth",
+    "vsrepo": 0,
+    "description": "comb filters v0.0.1",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:56",
+    "updated_at": "2018-09-25 13:07:56",
+    "deleted_at": null,
+    "category": "Masking and Edge Detecting",
+    "functions": [
+        {
+            "name": "CMaskedMerge",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:56",
+            "updated_at": "2018-09-25 13:07:56",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "CombMask",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:56",
+            "updated_at": "2018-09-25 13:07:56",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        }
+    ]
+}

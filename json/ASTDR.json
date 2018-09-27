@@ -1,0 +1,46 @@
+{
+    "namespace": "ASTDR",
+    "shortalias": "",
+    "identifier": "ASTDR",
+    "name": "ASTDR",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-astdr",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-astdr",
+    "vsrepo": 1,
+    "description": "ASTDR is a derainbow function. ASTDRmc performs motion compensation before calling ASTDR.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:24",
+    "updated_at": "2018-09-25 13:07:24",
+    "deleted_at": null,
+    "category": "Dot Crawl and Rainbows",
+    "functions": [
+        {
+            "name": "ASTDR",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "YUV420, YUV422",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:24",
+            "updated_at": "2018-09-25 13:07:24",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "ASTDRmc",
+            "description": "ASTDRmc performs motion compensation before calling ASTDR",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:24",
+            "updated_at": "2018-09-25 13:07:24",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

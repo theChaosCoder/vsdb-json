@@ -1,0 +1,46 @@
+{
+    "namespace": "depan",
+    "shortalias": "",
+    "identifier": "com.holywu.depan",
+    "name": "DePan",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DePan",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DePan",
+    "vsrepo": 0,
+    "description": "Tools for estimation and compensation of global motion (pan)",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:39",
+    "updated_at": "2018-09-25 13:07:39",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "DePan",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "DePanEstimate",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:39",
+            "updated_at": "2018-09-25 13:07:39",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

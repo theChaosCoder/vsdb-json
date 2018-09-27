@@ -1,0 +1,46 @@
+{
+    "namespace": "xyvsf",
+    "shortalias": "",
+    "identifier": "com.xy.vsfilter",
+    "name": "xy-VSFilter",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Tsuki/VapourSynth-XY-VSFilter",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/Tsuki/VapourSynth-XY-VSFilter",
+    "vsrepo": 0,
+    "description": "xy-VSFilter",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:52",
+    "updated_at": "2018-09-25 13:07:52",
+    "deleted_at": null,
+    "category": "Subtitles",
+    "functions": [
+        {
+            "name": "TextSub",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "YUV420, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:52",
+            "updated_at": "2018-09-25 13:07:52",
+            "deleted_at": null,
+            "category": "Subtitles"
+        },
+        {
+            "name": "VobSub",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "YUV420, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:52",
+            "updated_at": "2018-09-25 13:07:52",
+            "deleted_at": null,
+            "category": "Subtitles"
+        }
+    ]
+}

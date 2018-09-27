@@ -1,0 +1,46 @@
+{
+    "namespace": "dfmderainbow",
+    "shortalias": "",
+    "identifier": "dfmderainbow",
+    "name": "DFMDerainbow",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-dfmderainbow",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 1,
+    "description": "DFMDerainbow is a derainbow function. DFMDerainbowMC performs motion compensation before calling DFMDerainbow.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:33",
+    "updated_at": "2018-09-25 13:07:33",
+    "deleted_at": null,
+    "category": "Dot Crawl and Rainbows",
+    "functions": [
+        {
+            "name": "DFMDerainbow",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "Dot Crawl and Rainbows"
+        },
+        {
+            "name": "DFMDerainbowMC",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "Dot Crawl and Rainbows"
+        }
+    ]
+}

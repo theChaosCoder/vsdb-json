@@ -1,0 +1,46 @@
+{
+    "namespace": "msmoosh",
+    "shortalias": "",
+    "identifier": "com.nodame.msmoosh",
+    "name": "MSmooth",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-msmoosh",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-msmoosh",
+    "vsrepo": 1,
+    "description": "MSmooth and MSharpen",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:43",
+    "updated_at": "2018-09-25 13:07:43",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "MSharpen",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "Sharpening"
+        },
+        {
+            "name": "MSmooth",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}

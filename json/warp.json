@@ -1,0 +1,70 @@
+{
+    "namespace": "warp",
+    "shortalias": "",
+    "identifier": "com.nodame.awarpsharp2",
+    "name": "aWarpSharp2",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-awarpsharp2",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-awarpsharp2",
+    "vsrepo": 1,
+    "description": "Sharpen images by warping",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:41",
+    "updated_at": "2018-09-25 13:07:41",
+    "deleted_at": null,
+    "category": "Other",
+    "functions": [
+        {
+            "name": "ABlur",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "ASobel",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        },
+        {
+            "name": "AWarp",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:41",
+            "updated_at": "2018-09-25 13:07:41",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "AWarpSharp2",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "namespace": "imwri",
+    "shortalias": "",
+    "identifier": "com.vapoursynth.imwri",
+    "name": "ImageMagick",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://forum.doom9.org/showthread.php?t=170981",
+    "vsrepo": 0,
+    "description": "VapourSynth ImageMagick 7 HDRI Writer/Reader",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:48",
+    "updated_at": "2018-09-27 04:22:37",
+    "deleted_at": null,
+    "category": "Source/Output",
+    "functions": [
+        {
+            "name": "Read",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:48",
+            "updated_at": "2018-09-25 13:07:48",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Write",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:48",
+            "updated_at": "2018-09-25 13:07:48",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

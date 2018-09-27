@@ -1,0 +1,46 @@
+{
+    "namespace": "fh",
+    "shortalias": "",
+    "identifier": "com.nodame.fieldhint",
+    "name": "FieldHint",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-fieldhint",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-fieldhint",
+    "vsrepo": 0,
+    "description": "FieldHint Plugin",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:42",
+    "updated_at": "2018-09-25 13:07:42",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "FieldHint",
+            "description": "",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Fieldhint",
+            "description": "",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

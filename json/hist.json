@@ -1,0 +1,82 @@
+{
+    "namespace": "hist",
+    "shortalias": "",
+    "identifier": "com.nodame.histogram",
+    "name": "Histogram",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-histogram",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-histogram",
+    "vsrepo": 0,
+    "description": "VapourSynth Histogram Plugin",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:43",
+    "updated_at": "2018-09-25 13:07:43",
+    "deleted_at": null,
+    "category": "Metrics and Analysis",
+    "functions": [
+        {
+            "name": "Classic",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Color",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Color2",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Levels",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Luma",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:43",
+            "updated_at": "2018-09-25 13:07:43",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "namespace": "descale",
+    "shortalias": "",
+    "identifier": "tegaf.asi.xe",
+    "name": "Descale",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=174570",
+    "url_avswiki": "",
+    "url_website": "https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale",
+    "vsrepo": 1,
+    "description": "Undo linear interpolation. Usage of the bundled descale py-script is strongly adviced.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:55",
+    "updated_at": "2018-09-25 13:07:55",
+    "deleted_at": null,
+    "category": "Resizing and Format Conversion",
+    "functions": [
+        {
+            "name": "Debicubic",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV444, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Debilinear",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV444, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Delanczos",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV444, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Despline16",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV444, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Despline36",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "GRAY, YUV444, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

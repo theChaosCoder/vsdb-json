@@ -1,0 +1,46 @@
+{
+    "namespace": "lsmas",
+    "shortalias": "",
+    "identifier": "systems.innocent.lsmas",
+    "name": "L-SMASH-Works",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/VFR-maniac/L-SMASH-Works",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/VFR-maniac/L-SMASH-Works",
+    "vsrepo": 0,
+    "description": "LSMASHSource for VapourSynth",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:55",
+    "updated_at": "2018-09-25 13:07:55",
+    "deleted_at": null,
+    "category": "Source/Output",
+    "functions": [
+        {
+            "name": "LWLibavSource",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "LibavSMASHSource",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:55",
+            "updated_at": "2018-09-25 13:07:55",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

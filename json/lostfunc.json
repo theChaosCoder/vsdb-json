@@ -1,0 +1,58 @@
+{
+    "namespace": "lostfunc",
+    "shortalias": "lof",
+    "identifier": "lostfunc",
+    "name": "lostfunc",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/theChaosCoder/lostfunc",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/theChaosCoder/lostfunc",
+    "vsrepo": 0,
+    "description": "A collection of scripts mostly posted on doom9 forums.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:33",
+    "updated_at": "2018-09-25 13:07:33",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": [
+        {
+            "name": "fast_deblock",
+            "description": "Basically a low precision lite version of Oyster.Deblocking(), lower quality but like a million times faster. Note that chroma will not be processed",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "Deblocking"
+        },
+        {
+            "name": "toot",
+            "description": "A 'advanced-averaging' filter (ignores worst source)",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "MfTurd",
+            "description": "Vapoursynth port of mfToon2 (with fixes)",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:33",
+            "updated_at": "2018-09-25 13:07:33",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

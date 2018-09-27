@@ -1,0 +1,58 @@
+{
+    "namespace": "sub",
+    "shortalias": "",
+    "identifier": "biz.srsfckn.subtext",
+    "name": "Subtext",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 1,
+    "url_github": "https://github.com/vapoursynth/vapoursynth",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "http://www.vapoursynth.com/doc/plugins/subtext.html",
+    "vsrepo": 0,
+    "description": "A subtitling filter based on libass and ffmpeg.",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:46",
+    "updated_at": "2018-09-25 13:07:46",
+    "deleted_at": null,
+    "category": "Subtitles",
+    "functions": [
+        {
+            "name": "ImageFile",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Subtitle",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "TextFile",
+            "description": "",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:46",
+            "updated_at": "2018-09-25 13:07:46",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

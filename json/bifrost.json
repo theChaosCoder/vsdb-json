@@ -1,0 +1,46 @@
+{
+    "namespace": "bifrost",
+    "shortalias": "",
+    "identifier": "com.nodame.bifrost",
+    "name": "Bifrost",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-bifrost",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/dubhater/vapoursynth-bifrost",
+    "vsrepo": 1,
+    "description": "Bifrost plugin for VapourSynth",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:42",
+    "updated_at": "2018-09-25 13:07:42",
+    "deleted_at": null,
+    "category": "Dot Crawl and Rainbows",
+    "functions": [
+        {
+            "name": "Bifrost",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "BlockDiff",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:42",
+            "updated_at": "2018-09-25 13:07:42",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}
