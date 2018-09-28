@@ -1,0 +1,46 @@
+{
+    "namespace": "focus",
+    "shortalias": "",
+    "identifier": "com.vapoursynth.focus",
+    "name": "TemporalSoften",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-temporalsoften",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/IFeelBloated/vapoursynth-focus",
+    "vsrepo": 0,
+    "description": "VapourSynth Pixel Restoration Filters",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:47",
+    "updated_at": "2018-09-25 13:07:47",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "SpatialSoften",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:47",
+            "updated_at": "2018-09-25 13:07:47",
+            "deleted_at": null,
+            "category": "Denoising"
+        },
+        {
+            "name": "TemporalSoften",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:47",
+            "updated_at": "2018-09-25 13:07:47",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "namespace": "mx",
+    "shortalias": "",
+    "identifier": "com.kice.mxDncnn",
+    "name": "mxDnCNN",
+    "type": "VSPlugin",
+    "gpusupport": "cuDNN",
+    "vs_included": 0,
+    "url_github": "https://github.com/kice/vs_mxDnCNN",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://github.com/kice/vs_mxDnCNN",
+    "vsrepo": 0,
+    "description": "A MXNet implement of the paper \"Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising\"",
+    "deprecated": "",
+    "created_at": "2018-09-25 13:07:56",
+    "updated_at": "2018-09-25 13:07:56",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "mxDNCNN",
+            "description": "A MXNet implement of the paper \"Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising\"",
+            "bitdepth": "32 float",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-09-25 13:07:56",
+            "updated_at": "2018-09-25 13:07:56",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}
