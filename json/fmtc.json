@@ -19,18 +19,6 @@
     "category": "Resizing and Format Conversion",
     "functions": [
         {
-            "name": "colorspace",
-            "description": "u",
-            "bitdepth": "u",
-            "colorspace": "u",
-            "gpusupport": "u",
-            "deprecated": "u",
-            "created_at": "2018-09-25 13:07:52",
-            "updated_at": "2018-09-25 13:07:52",
-            "deleted_at": null,
-            "category": null
-        },
-        {
             "name": "bitdepth",
             "description": "",
             "bitdepth": "unknown",
