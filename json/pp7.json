@@ -10,7 +10,7 @@
     "url_doom9": "",
     "url_avswiki": "http://avisynth.nl/index.php/DeblockPP7",
     "url_website": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeblockPP7",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "Port of pp7 from MPlayer. Similar to spp=6 with 7 point DCT where only the center sample is used after IDCT.",
     "deprecated": "",
     "created_at": "2018-09-25 13:07:39",
