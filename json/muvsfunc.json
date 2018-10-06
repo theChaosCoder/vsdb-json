@@ -316,7 +316,7 @@
             "created_at": "2018-09-25 13:07:29",
             "updated_at": "2018-09-27 03:46:07",
             "deleted_at": null,
-            "category": "Color/Levels manipulation"
+            "category": "Color/Levels"
         },
         {
             "name": "DeFilter",
