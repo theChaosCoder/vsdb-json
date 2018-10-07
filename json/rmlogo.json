@@ -1,0 +1,34 @@
+{
+    "namespace": "rmlogo",
+    "shortalias": "",
+    "identifier": "xyz.noctem.removelogo",
+    "name": "RemoveLogo",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Noctem/vapoursynth-removelogo",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Remove a TV logo based on a mask image.",
+    "deprecated": "",
+    "created_at": "2018-10-07 17:20:18",
+    "updated_at": "2018-10-07 17:24:10",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "RemoveLogo",
+            "description": "",
+            "bitdepth": "8 int",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-10-07 17:20:51",
+            "updated_at": "2018-10-07 17:23:29",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}

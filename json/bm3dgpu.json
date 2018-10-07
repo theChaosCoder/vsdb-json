@@ -1,0 +1,34 @@
+{
+    "namespace": "bm3dgpu",
+    "shortalias": "",
+    "identifier": "com.fdar0536.bm3dgpu",
+    "name": "BM3DCuda",
+    "type": "VSPlugin",
+    "gpusupport": "CUDA",
+    "vs_included": 0,
+    "url_github": "https://github.com/fdar0536/Vapoursynth-BM3DCuda",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Cuda version of BM3D. Prototype status!",
+    "deprecated": "",
+    "created_at": "2018-10-07 17:10:23",
+    "updated_at": "2018-10-07 17:11:36",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "BM3DCuda",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "CUDA",
+            "deprecated": "",
+            "created_at": "2018-10-07 17:11:21",
+            "updated_at": "2018-10-07 17:11:21",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}

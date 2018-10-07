@@ -53,6 +53,30 @@
             "updated_at": "2018-09-25 13:07:33",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "DeSpot",
+            "description": "Spot removal script by Did\u00e9e http://forum.doom9.net/showthread.php?p=1402690#post1402690. In my experience this filter works very good as a prefilter for SMDegrain(). Filtering only luma seems to help to avoid ghost artefacts.",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-10-07 07:49:06",
+            "updated_at": "2018-10-07 07:49:06",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Stab",
+            "description": "Stab function that uses DePanEstimate from \"Depan\" plugin which supports the range parameter. DePanEstimate from MvTools is missing that paramater. Function copied from havsfunc",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-10-07 07:52:28",
+            "updated_at": "2018-10-07 07:52:28",
+            "deleted_at": null,
+            "category": "unknown"
         }
     ]
 }

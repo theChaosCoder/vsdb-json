@@ -401,6 +401,18 @@
             "updated_at": "2018-10-06 06:54:48",
             "deleted_at": null,
             "category": "Denoising"
+        },
+        {
+            "name": "SpotLess",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-10-07 07:45:22",
+            "updated_at": "2018-10-07 07:45:22",
+            "deleted_at": null,
+            "category": "unknown"
         }
     ]
 }
