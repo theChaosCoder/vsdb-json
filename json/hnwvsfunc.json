@@ -413,6 +413,18 @@
             "updated_at": "2018-10-09 07:47:33",
             "deleted_at": null,
             "category": "Anti-aliasing"
+        },
+        {
+            "name": "TemporalDegrain2",
+            "description": "Temporal Degrain Updated by ErazorTT",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2018-11-24 12:01:09",
+            "updated_at": "2018-11-24 12:01:09",
+            "deleted_at": null,
+            "category": "Denoising"
         }
     ]
 }
