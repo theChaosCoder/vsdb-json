@@ -10,7 +10,7 @@
     "url_doom9": "",
     "url_avswiki": "",
     "url_website": "",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "EdgeFixer repairs bright and dark line artifacts near the border of an image.",
     "deprecated": "",
     "created_at": "2018-12-08 14:37:44",

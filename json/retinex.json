@@ -1,7 +1,7 @@
 {
     "namespace": "retinex",
     "shortalias": "",
-    "identifier": "AOJIAO_mawen1250->AOwen.Retina_Cortex->Retinex",
+    "identifier": "com.vapoursynth.retinex",
     "name": "Retinex",
     "type": "VSPlugin",
     "gpusupport": "",
@@ -14,7 +14,7 @@
     "description": "The Retinex theory and algorithm mainly aims at simulating the color constancy feature of HVS(Human Visual System).",
     "deprecated": "",
     "created_at": "2018-09-25 13:07:38",
-    "updated_at": "2018-09-25 13:07:38",
+    "updated_at": "2018-12-29 23:30:14",
     "deleted_at": null,
     "category": "Other",
     "functions": [

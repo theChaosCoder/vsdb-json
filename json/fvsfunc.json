@@ -22,11 +22,11 @@
             "name": "GradFun3",
             "description": "This is a slightly modified version of the original GradFun3",
             "bitdepth": "unknown",
-            "colorspace": "unknown",
+            "colorspace": "GRAY, YUV, YCOCG",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:23",
-            "updated_at": "2018-09-25 13:07:23",
+            "updated_at": "2018-12-17 01:51:54",
             "deleted_at": null,
             "category": "Debanding"
         },
