@@ -1,0 +1,21 @@
+{
+    "namespace": "G41Fun",
+    "shortalias": "",
+    "identifier": "G41Fun",
+    "name": "G41Fun",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Helenerineium/G41Fun",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=175989",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "",
+    "deprecated": "",
+    "created_at": "2019-01-01 09:57:06",
+    "updated_at": "2019-01-01 09:57:06",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": []
+}
