@@ -677,6 +677,30 @@
             "updated_at": "2018-09-25 13:07:30",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "fade",
+            "description": "Fade-in/out effect implementation",
+            "bitdepth": "8-16 int / 16-32 float",
+            "colorspace": "GRAY, YUV, RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-03 19:02:05",
+            "updated_at": "2019-02-03 19:02:31",
+            "deleted_at": null,
+            "category": "Effects and Transitions"
+        },
+        {
+            "name": "MDSI",
+            "description": "MDSI (Mean Deviation Similarity Index) is a full reference IQA model that utilize gradient similarity (GS), chromaticity similarity (CS), and deviation pooling (DP). The lowerer the MDSI score, the higher the image perceptual quality.",
+            "bitdepth": "",
+            "colorspace": "RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-08 14:33:28",
+            "updated_at": "2019-02-08 14:33:28",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
         }
     ]
 }

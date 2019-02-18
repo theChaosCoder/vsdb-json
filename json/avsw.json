@@ -20,13 +20,13 @@
     "functions": [
         {
             "name": "Eval",
-            "description": "",
+            "description": "Use stack16 for high bit depth. ConvertToStacked() at the end of the avisynth script.",
             "bitdepth": "8 int",
             "colorspace": "unknown",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:56",
-            "updated_at": "2018-09-25 13:07:56",
+            "updated_at": "2019-02-03 19:08:33",
             "deleted_at": null,
             "category": "unknown"
         }

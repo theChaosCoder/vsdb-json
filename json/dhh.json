@@ -1,0 +1,70 @@
+{
+    "namespace": "dhh",
+    "shortalias": "",
+    "identifier": "dhh",
+    "name": "dhh",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://pastebin.com/2uziEgxr",
+    "vsrepo": 0,
+    "description": "DeHaloHmod mask",
+    "deprecated": "",
+    "created_at": "2019-02-15 09:55:00",
+    "updated_at": "2019-02-15 09:55:00",
+    "deleted_at": null,
+    "category": "Masking and Edge Detecting",
+    "functions": [
+        {
+            "name": "mask",
+            "description": "DeHaloHmod mask port: https://forum.doom9.org/showthread.php?t=145898#post1675762. Basically a very accurate cartoon lineart mask.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-15 09:56:22",
+            "updated_at": "2019-02-15 09:56:22",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        },
+        {
+            "name": "Camembert",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-15 09:58:25",
+            "updated_at": "2019-02-15 09:58:25",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "FastLineDarkenMOD3",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-15 09:59:04",
+            "updated_at": "2019-02-15 09:59:04",
+            "deleted_at": null,
+            "category": "Line Darkening"
+        },
+        {
+            "name": "EMask",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-02-15 10:00:35",
+            "updated_at": "2019-02-15 10:00:35",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        }
+    ]
+}
