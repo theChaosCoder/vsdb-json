@@ -1,0 +1,34 @@
+{
+    "namespace": "tedgemask",
+    "shortalias": "",
+    "identifier": "com.nodame.tedgemask",
+    "name": "TEdgeMask",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-tedgemask",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=176196",
+    "url_avswiki": "http://avisynth.nl/index.php/TEdgeMask",
+    "url_website": "",
+    "vsrepo": 1,
+    "description": "TEdgeMask is an edge detection filter. This is a port of the TEdgeMask/TEMmod Avisynth plugins.",
+    "deprecated": "",
+    "created_at": "2019-03-13 16:16:20",
+    "updated_at": "2019-03-13 16:16:20",
+    "deleted_at": null,
+    "category": "Masking and Edge Detecting",
+    "functions": [
+        {
+            "name": "TEdgeMask",
+            "description": "Types 3 and 4 from TEMmod are not implemented.",
+            "bitdepth": "8-16 int",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-03-13 16:18:47",
+            "updated_at": "2019-03-13 16:20:26",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        }
+    ]
+}
