@@ -1,0 +1,58 @@
+{
+    "namespace": "median",
+    "shortalias": "",
+    "identifier": "com.nodame.median",
+    "name": "Median",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-median",
+    "url_doom9": "",
+    "url_avswiki": "http://avisynth.nl/index.php/Median",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "",
+    "deprecated": "",
+    "created_at": "2019-04-25 20:10:58",
+    "updated_at": "2019-04-25 20:10:58",
+    "deleted_at": null,
+    "category": "unknown",
+    "functions": [
+        {
+            "name": "Median",
+            "description": "Median generates a pixel-by-pixel median of several clips. This is particularly useful for filtering out noise and glitches from multiple VHS/SVHS/8mm/Hi8 tape captures, but can be used for other purposes also.",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-04-25 20:15:06",
+            "updated_at": "2019-04-26 20:40:32",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "MedianBlend",
+            "description": "MedianBlend can return a clip derived from the minimum or maximum pixel values, or it can discard some low (default: 1) and high (default: 1) values and blend the others together. With the parameters set to not discard anything, the result is in fact the average of the clips.",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-04-25 20:15:40",
+            "updated_at": "2019-04-26 20:40:45",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "TemporalMedian",
+            "description": "Returns the temporal median of a single clip.",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-04-25 20:15:56",
+            "updated_at": "2019-04-26 20:40:55",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}
