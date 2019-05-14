@@ -1,0 +1,70 @@
+{
+    "namespace": "ispc",
+    "shortalias": "",
+    "identifier": "com.wolframrhodium.ispc",
+    "name": "ISPC-Project",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/WolframRhodium/VapourSynth-ISPC-Project",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Implementation of algorithms for VapourSynth in ISPC (Intel SPMD Program Compiler).",
+    "deprecated": "",
+    "created_at": "2019-05-12 15:55:57",
+    "updated_at": "2019-05-12 15:55:57",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": [
+        {
+            "name": "Binarize",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-12 15:57:09",
+            "updated_at": "2019-05-12 15:57:09",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Invert",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-12 15:58:15",
+            "updated_at": "2019-05-12 15:58:15",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Merge",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-12 15:58:31",
+            "updated_at": "2019-05-12 15:58:31",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "Limiter",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-12 15:58:47",
+            "updated_at": "2019-05-12 15:58:47",
+            "deleted_at": null,
+            "category": "unknown"
+        }
+    ]
+}
