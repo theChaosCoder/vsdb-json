@@ -1,0 +1,46 @@
+{
+    "namespace": "TCPClip",
+    "shortalias": "",
+    "identifier": "TCPClip",
+    "name": "TCPClip",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Beatrice-Raws/VapourSynth-TCPClip",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Python class for distributed video processing and encoding",
+    "deprecated": "",
+    "created_at": "2019-05-29 23:05:27",
+    "updated_at": "2019-05-29 23:05:27",
+    "deleted_at": null,
+    "category": "Other",
+    "functions": [
+        {
+            "name": "Client",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-29 23:08:15",
+            "updated_at": "2019-05-29 23:08:15",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "Server",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-05-29 23:08:39",
+            "updated_at": "2019-05-29 23:08:39",
+            "deleted_at": null,
+            "category": "Other"
+        }
+    ]
+}
