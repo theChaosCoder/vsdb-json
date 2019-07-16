@@ -44,15 +44,15 @@
         },
         {
             "name": "adaptive_grain",
-            "description": "Generates grain based on frame and pixel brightness. Details can be found here: https://kageru.moe/article.php?p=adaptivegrain",
+            "description": "Generates grain based on frame and pixel brightness. Details can be found here: https://kageru.moe/blog/article/adaptivegrain/",
             "bitdepth": "unknown",
             "colorspace": "unknown",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:37",
-            "updated_at": "2018-09-25 13:07:37",
+            "updated_at": "2019-06-07 07:44:17",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Effects and Transitions"
         },
         {
             "name": "conditional_resize",

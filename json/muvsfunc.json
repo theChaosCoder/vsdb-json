@@ -785,6 +785,18 @@
             "updated_at": "2019-06-03 01:07:37",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "VFRSplice",
+            "description": "",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-06-06 22:21:19",
+            "updated_at": "2019-06-06 22:21:19",
+            "deleted_at": null,
+            "category": "unknown"
         }
     ]
 }
