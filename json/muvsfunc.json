@@ -797,6 +797,18 @@
             "updated_at": "2019-06-06 22:21:19",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "resize",
+            "description": "Experimental wrapper function for vszimg resizer in a fmtconv-like API",
+            "bitdepth": "unknown",
+            "colorspace": "unknown",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-08-11 16:04:12",
+            "updated_at": "2019-08-11 16:04:12",
+            "deleted_at": null,
+            "category": "Resizing and Format Conversion"
         }
     ]
 }
