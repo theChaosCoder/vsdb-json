@@ -21,12 +21,12 @@
         {
             "name": "compare",
             "description": "Allows for two frames to be compared by putting them next to each other in a list.",
-            "bitdepth": "",
-            "colorspace": "",
+            "bitdepth": "any",
+            "colorspace": "any",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-06-03 04:23:58",
-            "updated_at": "2019-06-03 04:23:58",
+            "updated_at": "2019-10-26 03:23:10",
             "deleted_at": null,
             "category": "Metrics and Analysis"
         },
@@ -55,26 +55,26 @@
             "category": "Anti-aliasing"
         },
         {
-            "name": "NnEedi3",
+            "name": "nneedi3_clamp",
             "description": "Script written by Zastin. What it does is clamp the \"change\" done by eedi3 to the \"change\" of nnedi3. This should fix every issue created by eedi3.\r\nmask allows for you to use your own mask.\r\nstrong_mask uses a binarized retinex_edgemask to replace more lineart with nnedi3.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
-            "deprecated": "",
+            "deprecated": "NnEedi3",
             "created_at": "2019-06-03 04:55:03",
-            "updated_at": "2019-06-03 04:55:03",
+            "updated_at": "2019-10-26 03:29:14",
             "deleted_at": null,
             "category": "Masking and Edge Detecting"
         },
         {
             "name": "quick_denoise",
-            "description": "Wrapper for generic denoising. Denoising is done by BM3D with a given denoisers being used for ref. Returns the denoised clip used as ref if BM3D=False.\r\nMode 1 = KNLMeansCL\r\nMode 2 = SMDegrain\r\nMode 3 = DFTTest",
+            "description": "This wrapper is used to denoise both the luma and chroma using various denoisers of your choosing.\r\nIf you wish to use just one denoiser, you're probably better off using that specific filter rather than this wrapper. BM3D is used for denoising the luma.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-06-03 04:55:51",
-            "updated_at": "2019-06-03 04:56:29",
+            "updated_at": "2019-10-26 03:31:26",
             "deleted_at": null,
             "category": "Denoising"
         },
@@ -101,6 +101,90 @@
             "updated_at": "2019-06-03 04:56:49",
             "deleted_at": null,
             "category": "Source/Output"
+        },
+        {
+            "name": "conditional_descale",
+            "description": "Descales and reupscales a clip. If the difference exceeds the threshold, the frame will not be descaled. If it does not exceed the threshold, the frame will upscaled using either nnedi3_rpow2 or waifu2x-caffe. Useful for BDs that have additional post-processing done on some scenes, but not all of them.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-09-13 12:03:16",
+            "updated_at": "2019-09-13 12:03:16",
+            "deleted_at": null,
+            "category": "Resizing and Format Conversion"
+        },
+        {
+            "name": "deblend",
+            "description": "A simple function to fix deblending for interlaced video with an AABBA blending pattern, where A is a normal frame and B is a blended frame. Assuming there's a constant pattern of frames (labeled A, B, C, CD, and DA in this function), blending can be fixed by calculating the C frame by getting halves of CD and DA, and using that to fix up CD. DA can then be dropped due to it being an interlaced frame.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:25:28",
+            "updated_at": "2019-10-26 03:25:28",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "fix_cr_tint",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:26:11",
+            "updated_at": "2019-10-26 03:26:11",
+            "deleted_at": null,
+            "category": "unknown"
+        },
+        {
+            "name": "limit_dark",
+            "description": "Replaces frames in a clip with a filtered clip when the frame's darkness exceeds the threshold.\r\nThis way you can run lighter (or heavier) filtering on scenes that are almost entirely dark.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:27:30",
+            "updated_at": "2019-10-26 03:27:30",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "one_plane",
+            "description": "Checks if the source clip is a single plane.",
+            "bitdepth": "any",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:30:10",
+            "updated_at": "2019-10-26 03:30:10",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "test_descale",
+            "description": "Generic function to test descales with. Descales and reupscales a given clip, allowing you to compare the two easily.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:34:57",
+            "updated_at": "2019-10-26 03:34:57",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "upscaled_sraa",
+            "description": "Another AA written by Zastin and slightly modified by me(LightArrowsEXE). Performs an upscaled single-rate AA to deal with aliasing. Useful for Web rips, where the source quality is not good enough to descale, but you still want to deal with some bad aliasing and lineart.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:36:11",
+            "updated_at": "2019-10-26 03:36:11",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
         }
     ]
 }

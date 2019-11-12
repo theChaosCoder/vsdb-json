@@ -689,6 +689,30 @@
             "updated_at": "2019-07-16 09:39:40",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "daa3mod",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-10 14:13:13",
+            "updated_at": "2019-10-10 14:13:13",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
+        },
+        {
+            "name": "mcdaa3",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-10 14:13:32",
+            "updated_at": "2019-10-10 14:13:32",
+            "deleted_at": null,
+            "category": "Anti-aliasing"
         }
     ]
 }

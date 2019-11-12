@@ -2,7 +2,7 @@
     "namespace": "f3kdb",
     "shortalias": "",
     "identifier": "net.sapikachu.f3kdb",
-    "name": "flash3kyuu_deband",
+    "name": "f3kdb",
     "type": "VSPlugin",
     "gpusupport": "",
     "vs_included": 0,
@@ -14,7 +14,7 @@
     "description": "flash3kyuu_deband",
     "deprecated": "",
     "created_at": "2018-09-25 13:07:54",
-    "updated_at": "2018-09-25 13:07:54",
+    "updated_at": "2019-09-19 13:25:35",
     "deleted_at": null,
     "category": "Debanding",
     "functions": [

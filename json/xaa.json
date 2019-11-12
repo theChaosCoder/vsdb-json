@@ -10,7 +10,7 @@
     "url_doom9": "https://forum.doom9.org/showthread.php?t=176203",
     "url_avswiki": "",
     "url_website": "",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "xaa is a many-in-one antialiasing function for VapourSynth.",
     "deprecated": "",
     "created_at": "2019-03-16 11:19:14",

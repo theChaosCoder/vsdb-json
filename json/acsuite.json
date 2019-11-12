@@ -1,0 +1,46 @@
+{
+    "namespace": "acsuite",
+    "shortalias": "acs",
+    "identifier": "acsuite",
+    "name": "acsuite",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/OrangeChannel/acsuite",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Replacement for AzraelNewtype's audiocutter.py\r\nAllows for trimming/splicing audio with VS syntax, within a VS scripting environment.",
+    "deprecated": "",
+    "created_at": "2019-10-26 03:50:22",
+    "updated_at": "2019-10-26 03:50:22",
+    "deleted_at": null,
+    "category": "Other",
+    "functions": [
+        {
+            "name": "eztrim",
+            "description": "Simpler audio trimming function that follows VS/python slicing syntax.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:51:12",
+            "updated_at": "2019-10-26 03:51:12",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "octrim",
+            "description": "Audio trimming function designed for ordered-chapters creation. Uses frame numbers from un-cut/un-trimmed src VideoNode.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:52:36",
+            "updated_at": "2019-10-26 03:52:36",
+            "deleted_at": null,
+            "category": "Other"
+        }
+    ]
+}

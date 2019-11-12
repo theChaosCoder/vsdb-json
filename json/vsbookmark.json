@@ -1,0 +1,46 @@
+{
+    "namespace": "vsbookmark",
+    "shortalias": "",
+    "identifier": "vsbookmark",
+    "name": "vsbookmark",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://gist.github.com/OrangeChannel/b9666b3650a3448589069d25dd6a394c",
+    "vsrepo": 0,
+    "description": "VSEdit Bookmark generator",
+    "deprecated": "",
+    "created_at": "2019-10-26 03:40:06",
+    "updated_at": "2019-10-26 03:40:06",
+    "deleted_at": null,
+    "category": "Metrics and Analysis",
+    "functions": [
+        {
+            "name": "convert",
+            "description": "converts standard keyframe file to VSEdit bookmark format\r\naccepts WWXD qp-files and (SC)XviD keyframe files",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:40:57",
+            "updated_at": "2019-10-26 03:40:57",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "generate",
+            "description": "generates keyframe VSEdit bookmark file",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:41:31",
+            "updated_at": "2019-10-26 03:41:31",
+            "deleted_at": null,
+            "category": "Other"
+        }
+    ]
+}

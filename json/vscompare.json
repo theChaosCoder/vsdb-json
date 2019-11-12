@@ -1,0 +1,58 @@
+{
+    "namespace": "vscompare",
+    "shortalias": "vscomp",
+    "identifier": "vscompare",
+    "name": "vscompare",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "https://gist.github.com/OrangeChannel/c702baf34b4d4e4383c8209b8eadd8fb",
+    "vsrepo": 0,
+    "description": "Clip comparison script. Creates easy frame comparisons between multiple clips.",
+    "deprecated": "",
+    "created_at": "2019-10-26 03:43:09",
+    "updated_at": "2019-10-26 03:43:09",
+    "deleted_at": null,
+    "category": "Metrics and Analysis",
+    "functions": [
+        {
+            "name": "comp",
+            "description": "Allows an infinite number of clips to be compared. Can compare entire clips, frames, or slices. Visually arranges clips in five ways: continuous clip (A0 B0 A1 B1), vertical stacking, horizontal stacking, mosaic, split (A | B [| C])",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:44:27",
+            "updated_at": "2019-10-26 03:44:27",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "prep",
+            "description": "Prepares multiple clips of differing sizes/bit-depths to be compared. Can optionally be used as a simplified resize/ftmc wrapper for one clip.",
+            "bitdepth": "any",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:45:29",
+            "updated_at": "2019-10-26 03:45:29",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "save",
+            "description": "Writes frames as named files for easy upload to image comparison websites.",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2019-10-26 03:47:17",
+            "updated_at": "2019-10-26 03:47:17",
+            "deleted_at": null,
+            "category": "Other"
+        }
+    ]
+}
