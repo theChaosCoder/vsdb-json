@@ -1,7 +1,7 @@
 {
-    "namespace": "faggotDb",
+    "namespace": "faggotdb",
     "shortalias": "",
-    "identifier": "faggotDb",
+    "identifier": "faggotdb",
     "name": "faggotDeband",
     "type": "PyScript",
     "gpusupport": "",
@@ -14,19 +14,19 @@
     "description": "AlucardSama04's VapourSynth Function That Helps You With Debanding",
     "deprecated": "",
     "created_at": "2019-06-03 05:30:17",
-    "updated_at": "2019-06-04 01:11:25",
+    "updated_at": "2020-02-05 08:19:13",
     "deleted_at": null,
     "category": "Debanding",
     "functions": [
         {
-            "name": "FaggotDb",
+            "name": "faggotdb",
             "description": "Original idea from Fag3kdb. Edited by AlucardSama04 (Added Custom Masks)",
-            "bitdepth": "",
+            "bitdepth": "16 int",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-06-03 05:31:22",
-            "updated_at": "2019-06-03 05:31:22",
+            "updated_at": "2019-12-14 12:39:17",
             "deleted_at": null,
             "category": "Debanding"
         }
