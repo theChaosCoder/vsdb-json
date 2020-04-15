@@ -1,0 +1,34 @@
+{
+    "namespace": "neo_tmedian",
+    "shortalias": "",
+    "identifier": "in.7086.neo_tmedian",
+    "name": "Neo Temporal Median",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfAviSynthPlusEvolution/neo_TMedian",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Neo Temporal Median is a temporal denoising filter. It replaces every pixel with the median of its temporal neighbourhood.",
+    "deprecated": "",
+    "created_at": "2020-04-13 11:58:25",
+    "updated_at": "2020-04-13 11:58:25",
+    "deleted_at": null,
+    "category": "Denoising",
+    "functions": [
+        {
+            "name": "TemporalMedian",
+            "description": "",
+            "bitdepth": "8-16 int / 32 float",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-04-13 11:59:43",
+            "updated_at": "2020-04-13 11:59:43",
+            "deleted_at": null,
+            "category": "Denoising"
+        }
+    ]
+}

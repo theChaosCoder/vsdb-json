@@ -1,0 +1,34 @@
+{
+    "namespace": "bwdif",
+    "shortalias": "",
+    "identifier": "com.holywu.bwdif",
+    "name": "Bwdif",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bwdif",
+    "url_doom9": "https://forum.doom9.org/showthread.php?t=180419",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 1,
+    "description": "Motion adaptive deinterlacing based on yadif with the use of w3fdif and cubic interpolation algorithms.",
+    "deprecated": "",
+    "created_at": "2020-02-24 09:16:09",
+    "updated_at": "2020-02-24 09:16:36",
+    "deleted_at": null,
+    "category": "Deinterlacing",
+    "functions": [
+        {
+            "name": "Bwdif",
+            "description": "",
+            "bitdepth": "8-16 int",
+            "colorspace": "GRAY, YUV, RGB, YCOCG",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-02-24 09:17:34",
+            "updated_at": "2020-02-24 09:17:34",
+            "deleted_at": null,
+            "category": "Deinterlacing"
+        }
+    ]
+}

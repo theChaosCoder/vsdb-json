@@ -14,7 +14,7 @@
     "description": "Basically like f3kdb but with legacy format support removed (in Avisynth) and with new sample modes.",
     "deprecated": "",
     "created_at": "2019-09-19 13:24:34",
-    "updated_at": "2019-09-24 09:15:26",
+    "updated_at": "2020-04-15 06:20:05",
     "deleted_at": null,
     "category": "Debanding",
     "functions": []

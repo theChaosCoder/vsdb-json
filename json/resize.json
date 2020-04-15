@@ -89,6 +89,18 @@
             "updated_at": "2018-09-25 13:07:49",
             "deleted_at": null,
             "category": "unknown"
+        },
+        {
+            "name": "Spline64",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-02-29 20:59:09",
+            "updated_at": "2020-02-29 20:59:09",
+            "deleted_at": null,
+            "category": "Resizing and Format Conversion"
         }
     ]
 }
