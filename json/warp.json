@@ -14,9 +14,9 @@
     "description": "Sharpen images by warping",
     "deprecated": "",
     "created_at": "2018-09-25 13:07:41",
-    "updated_at": "2018-09-30 20:20:30",
+    "updated_at": "2020-05-19 14:16:10",
     "deleted_at": null,
-    "category": "Other",
+    "category": "Sharpening",
     "functions": [
         {
             "name": "ABlur",
@@ -50,9 +50,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:41",
-            "updated_at": "2018-09-25 13:07:41",
+            "updated_at": "2020-05-19 14:19:00",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Sharpening"
         },
         {
             "name": "AWarpSharp2",
@@ -62,9 +62,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:42",
-            "updated_at": "2018-09-25 13:07:42",
+            "updated_at": "2020-05-19 14:19:38",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Sharpening"
         }
     ]
 }

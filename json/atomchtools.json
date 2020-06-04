@@ -44,27 +44,27 @@
         },
         {
             "name": "ApplyImageMask",
-            "description": "",
+            "description": "Applies custom (hand-drawn) image as static mask for two clips.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-09-24 09:23:05",
-            "updated_at": "2019-09-24 09:23:05",
+            "updated_at": "2020-05-19 14:09:03",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Masking and Edge Detecting"
         },
         {
             "name": "Tp7DebandMask",
-            "description": "",
+            "description": "Ported Tp7's mask for detecting chroma lines.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-09-24 09:23:21",
-            "updated_at": "2019-09-24 09:23:21",
+            "updated_at": "2020-05-19 14:09:51",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Masking and Edge Detecting"
         },
         {
             "name": "JensenLineMask",
@@ -116,27 +116,27 @@
         },
         {
             "name": "DiffCreditlessMask",
-            "description": "",
+            "description": "Makes mask based on difference from 2 clips. Raises a mask from that diference.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-09-24 09:34:25",
-            "updated_at": "2019-09-24 09:34:25",
+            "updated_at": "2020-05-19 14:07:05",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Masking and Edge Detecting"
         },
         {
             "name": "DiffRescaleMask",
-            "description": "",
+            "description": "Builds mask from difference of original and re-upscales clips.",
             "bitdepth": "",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-09-24 09:34:41",
-            "updated_at": "2019-09-24 09:34:41",
+            "updated_at": "2020-05-19 14:05:06",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Masking and Edge Detecting"
         },
         {
             "name": "ApplyMaskOnLuma",

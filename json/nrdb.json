@@ -1,0 +1,34 @@
+{
+    "namespace": "NRDB",
+    "shortalias": "",
+    "identifier": "NRDB",
+    "name": "NRDB",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-nrdb",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "NRDB is a debanding function. It removes the noise in the input clip, debands, and adds the noise back. This is a port of the Avisynth function of the same name.",
+    "deprecated": "",
+    "created_at": "2020-04-27 17:38:10",
+    "updated_at": "2020-04-27 17:38:10",
+    "deleted_at": null,
+    "category": "Debanding",
+    "functions": [
+        {
+            "name": "NRDB",
+            "description": "",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-04-27 17:39:07",
+            "updated_at": "2020-04-27 17:39:07",
+            "deleted_at": null,
+            "category": "Debanding"
+        }
+    ]
+}

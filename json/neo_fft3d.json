@@ -10,7 +10,7 @@
     "url_doom9": "https://forum.doom9.org/showthread.php?t=181294",
     "url_avswiki": "",
     "url_website": "",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "3D frequency domain denoiser/sharpener. Forked from fft3dfilter.",
     "deprecated": "",
     "created_at": "2020-04-08 16:04:26",

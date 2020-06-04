@@ -1,0 +1,21 @@
+{
+    "namespace": "wwxd",
+    "shortalias": "",
+    "identifier": "com.dubhater.wwxd",
+    "name": "WWXD",
+    "type": "VSPlugin",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/dubhater/vapoursynth-wwxd",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "WWXD is basically Xvid's frame type decision code stuffed into a VapourSynth plugin.",
+    "deprecated": "",
+    "created_at": "2020-05-25 21:15:36",
+    "updated_at": "2020-05-25 21:15:36",
+    "deleted_at": null,
+    "category": "Metrics and Analysis",
+    "functions": []
+}

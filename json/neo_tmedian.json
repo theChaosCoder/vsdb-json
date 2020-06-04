@@ -10,7 +10,7 @@
     "url_doom9": "",
     "url_avswiki": "",
     "url_website": "",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "Neo Temporal Median is a temporal denoising filter. It replaces every pixel with the median of its temporal neighbourhood.",
     "deprecated": "",
     "created_at": "2020-04-13 11:58:25",

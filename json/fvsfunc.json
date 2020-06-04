@@ -122,9 +122,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:23",
-            "updated_at": "2018-09-25 13:07:23",
+            "updated_at": "2020-05-19 15:13:54",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Anti-aliasing"
         },
         {
             "name": "ProtectedDebiXAA",

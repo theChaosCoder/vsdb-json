@@ -26,9 +26,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:49",
-            "updated_at": "2018-09-25 13:07:49",
+            "updated_at": "2020-05-19 14:54:57",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Borders and Cropping"
         },
         {
             "name": "AssumeFPS",
@@ -38,9 +38,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:49",
-            "updated_at": "2018-09-25 13:07:49",
+            "updated_at": "2020-05-19 14:58:17",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Frame Rate Conversion"
         },
         {
             "name": "Binarize",
@@ -122,9 +122,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:49",
-            "updated_at": "2018-09-25 13:07:49",
+            "updated_at": "2020-05-19 15:08:09",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Borders and Cropping"
         },
         {
             "name": "CropAbs",
@@ -134,9 +134,9 @@
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:49",
-            "updated_at": "2018-09-25 13:07:49",
+            "updated_at": "2020-05-19 15:08:27",
             "deleted_at": null,
-            "category": "unknown"
+            "category": "Borders and Cropping"
         },
         {
             "name": "CropRel",
