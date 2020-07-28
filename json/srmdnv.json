@@ -1,0 +1,34 @@
+{
+    "namespace": "srmdnv",
+    "shortalias": "",
+    "identifier": "com.vapoursynth.srmdnv",
+    "name": "SRMD",
+    "type": "VSPlugin",
+    "gpusupport": "ncnn Vulkan",
+    "vs_included": 0,
+    "url_github": "https://github.com/Kiyamou/VapourSynth-SRMD-ncnn-Vulkan",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 1,
+    "description": "SRMD super resolution for VapourSynth, based on srmd-ncnn-vulkan.",
+    "deprecated": "",
+    "created_at": "2020-06-23 18:28:54",
+    "updated_at": "2020-06-23 18:28:54",
+    "deleted_at": null,
+    "category": "Resizing and Format Conversion",
+    "functions": [
+        {
+            "name": "SRMD",
+            "description": "",
+            "bitdepth": "32 float",
+            "colorspace": "RGB",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-06-23 18:29:34",
+            "updated_at": "2020-06-23 18:29:34",
+            "deleted_at": null,
+            "category": "Resizing and Format Conversion"
+        }
+    ]
+}

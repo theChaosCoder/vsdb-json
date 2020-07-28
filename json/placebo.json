@@ -53,6 +53,18 @@
             "updated_at": "2020-04-16 22:08:28",
             "deleted_at": null,
             "category": "Resizing and Format Conversion"
+        },
+        {
+            "name": "Shader",
+            "description": "Runs a GLSL shader in mpv syntax.",
+            "bitdepth": "16 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-06-16 18:53:28",
+            "updated_at": "2020-06-16 18:53:28",
+            "deleted_at": null,
+            "category": "Other"
         }
     ]
 }
