@@ -1,0 +1,70 @@
+{
+    "namespace": "pmsfunc",
+    "shortalias": "pmf",
+    "identifier": "pmsfunc",
+    "name": "pmsfunc",
+    "type": "PyScript",
+    "gpusupport": "",
+    "vs_included": 0,
+    "url_github": "https://github.com/Palladiawa/pmsfunc",
+    "url_doom9": "",
+    "url_avswiki": "",
+    "url_website": "",
+    "vsrepo": 0,
+    "description": "Palladiawa Mobiacikaka's Vapoursynth functions",
+    "deprecated": "",
+    "created_at": "2020-08-07 10:15:43",
+    "updated_at": "2020-08-15 07:13:29",
+    "deleted_at": null,
+    "category": "Collection",
+    "functions": [
+        {
+            "name": "scsFilters",
+            "description": "successive filtering",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-07 10:17:05",
+            "updated_at": "2020-08-07 10:17:05",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "RecFilters",
+            "description": "Rectangle Filter",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-07 10:18:22",
+            "updated_at": "2020-08-07 10:18:22",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "pmf_output",
+            "description": "clip.set_output() replacement with debug infos",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-07 10:19:59",
+            "updated_at": "2020-08-07 10:19:59",
+            "deleted_at": null,
+            "category": "Other"
+        },
+        {
+            "name": "kirsch5x",
+            "description": "Returns a strong edge mask. Based on kirsch.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-07 10:20:50",
+            "updated_at": "2020-08-07 10:20:50",
+            "deleted_at": null,
+            "category": "Masking and Edge Detecting"
+        }
+    ]
+}

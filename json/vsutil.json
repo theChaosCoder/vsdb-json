@@ -9,12 +9,12 @@
     "url_github": "https://github.com/Irrational-Encoding-Wizardry/vsutil",
     "url_doom9": "",
     "url_avswiki": "",
-    "url_website": "https://github.com/Irrational-Encoding-Wizardry/vsutil",
+    "url_website": "http://vsutil.encode.moe",
     "vsrepo": 1,
     "description": "A collection of general purpose Vapoursynth functions to be reused in modules and scripts",
     "deprecated": "",
     "created_at": "2019-06-03 04:07:17",
-    "updated_at": "2019-06-03 04:07:17",
+    "updated_at": "2020-09-02 23:54:21",
     "deleted_at": null,
     "category": "Collection",
     "functions": [
@@ -57,12 +57,12 @@
         {
             "name": "iterate",
             "description": "Utility function that executes a given function for a given number of times.",
-            "bitdepth": "a",
+            "bitdepth": "any",
             "colorspace": "",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2019-06-03 04:11:36",
-            "updated_at": "2019-06-03 04:11:36",
+            "updated_at": "2020-09-03 07:17:55",
             "deleted_at": null,
             "category": "Scripts"
         },
@@ -171,6 +171,30 @@
             "deprecated": "",
             "created_at": "2019-06-03 04:17:31",
             "updated_at": "2019-06-03 04:17:31",
+            "deleted_at": null,
+            "category": "Metrics and Analysis"
+        },
+        {
+            "name": "depth",
+            "description": "A bit depth converter only using core.resize. Supports all constant-format clips.",
+            "bitdepth": "any",
+            "colorspace": "any",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-09-02 23:56:06",
+            "updated_at": "2020-09-02 23:56:06",
+            "deleted_at": null,
+            "category": "Resizing and Format Conversion"
+        },
+        {
+            "name": "scale_value",
+            "description": "Scales a given numeric value between bit depths, sample types, and/or ranges.",
+            "bitdepth": "",
+            "colorspace": "",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-09-02 23:57:36",
+            "updated_at": "2020-09-02 23:57:36",
             "deleted_at": null,
             "category": "Metrics and Analysis"
         }

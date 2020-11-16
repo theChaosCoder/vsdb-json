@@ -10,7 +10,7 @@
     "url_doom9": "https://forum.doom9.org/showthread.php?t=173029",
     "url_avswiki": "",
     "url_website": "https://github.com/myrsloik/DotKill",
-    "vsrepo": 0,
+    "vsrepo": 1,
     "description": "VapourSynth DotKill",
     "deprecated": "",
     "created_at": "2018-09-25 13:07:47",
@@ -19,14 +19,38 @@
     "category": "Dot Crawl and Rainbows",
     "functions": [
         {
-            "name": "DotKill",
-            "description": "",
-            "bitdepth": "unknown",
-            "colorspace": "unknown",
+            "name": "DotKillS",
+            "description": "A purely spatial dotcrawl remover that can be safely used on most material after field matching.",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
             "gpusupport": "",
             "deprecated": "",
             "created_at": "2018-09-25 13:07:47",
-            "updated_at": "2018-09-25 13:07:47",
+            "updated_at": "2020-08-31 10:14:05",
+            "deleted_at": null,
+            "category": "Dot Crawl and Rainbows"
+        },
+        {
+            "name": "DotKillZ",
+            "description": "A pseudo-spatial dotcrawl and rainbow remover. It only works on NTSC content with rainbows added after 3:2 pulldown. This is true most of the time for anime.",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-31 06:10:35",
+            "updated_at": "2020-08-31 10:14:21",
+            "deleted_at": null,
+            "category": "Dot Crawl and Rainbows"
+        },
+        {
+            "name": "DotKillT",
+            "description": "A full spatio-temporal dotcrawl and rainbow remover. It only works on NTSC content with rainbows added after 3:2 pulldown. This is true most of the time for anime.",
+            "bitdepth": "8 int",
+            "colorspace": "YUV",
+            "gpusupport": "",
+            "deprecated": "",
+            "created_at": "2020-08-31 06:11:47",
+            "updated_at": "2020-08-31 10:14:14",
             "deleted_at": null,
             "category": "Dot Crawl and Rainbows"
         }
